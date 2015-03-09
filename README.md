@@ -15,7 +15,6 @@ Completed user stories:
 * [x] Optional: Compose screen is faded in while the buttons animate in.
 * [x] Optional: Discover bubble should bob up and down unless the SearchViewController is tapped.
 
-![tumblr](/Images/tumblr.gif)
 
 
 #### Acknowledegment
