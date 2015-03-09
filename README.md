@@ -4,9 +4,9 @@ Tumblr - assignment 5
 Objective: Basic prototyping and navigation
 Hours: 9 hours - spent about 2 hours debugging a tab bar issue. Ended up that i had had created to connections to the same button so everytime u would select a new tab, it would highlight the previous button instead of the one the user should be on. Felt extremely dumb once I figured out the problem.
 
-Walkthrough of DropBox:
+Walkthrough for Tumblr:
 
-![Video Walkthrough](TumblrWalkThrough.gif.gif)
+![Video Walkthrough](TumblrWalkThrough.gif)
 
 Completed user stories:
 
