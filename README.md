@@ -6,7 +6,7 @@ Hours: 9 hours - spent about 2 hours debugging a tab bar issue. Ended up that i 
 
 Walkthrough of DropBox:
 
-![Video Walkthrough](TumblrWalkthrough.gif)
+![Video Walkthrough](TumblrWalkThrough.gif.gif)
 
 Completed user stories:
 
